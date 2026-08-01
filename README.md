@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Credit Card Fraud Detection Banner" width="100%">
+  <img src="CNS Banner.png" alt="Credit Card Fraud Detection Banner" width="100%">
 </p>
 
 # 💳 Credit Card Fraud Detection using Machine Learning
